@@ -1,0 +1,99 @@
+a {
+  text-decoration: none;
+}
+a:visited, a:link {
+  color: white;
+}
+
+body {
+  background-image: url('./world_map.jpeg');
+  background-size: cover;
+}
+
+.App {
+  text-align: center;
+}
+
+.shadow {
+  background: rgb(0, 0, 0, 0.8);
+  /* background-color: black; */
+  /* opacity: 0.8; */
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.inputs {
+  /* width: 40%; */
+}
+
+.dropdown-list {
+  position: relative;
+
+}
+.dropdown-list .table-wrapper {
+  position: absolute;
+  /* background: blue; */
+  width: 100%;
+  height: 230px;
+  overflow: scroll;
+  z-index: 9999;
+}
+.dropdown-list table {
+  /* max-height: 200px;
+  overflow-y: scroll; */
+}
+
+.dropdown-list table tr {
+  cursor: pointer;
+}
+
+.fare {
+  font-size: 40px;
+}
+
+table
+{
+  max-width: 100%;
+  overflow-x: scroll;
+}
+
+.table-airport {
+  max-height: 230px;
+  overflow: scroll;
+  width: 800px;
+
+}
+.App-content {
+  /* background-color: #282c34; */
+  position: absolute;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: white;
+  padding: 10px 0;
+  overflow: hidden;
+}
+
+.nav {
+  position: absolute;
+  top: 100px;
+}
+.tab-content {
+  width: 100%;
+  overflow: scroll;
+}
+.row-page {
+  float: right;
+}
+.page a:visited, .page a:link {
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}

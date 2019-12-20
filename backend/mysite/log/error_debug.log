@@ -1,0 +1,172 @@
+[14/Dec/2019 20:35:01] ERROR [mysite.tools.request_tool:101] http post request error
+Traceback (most recent call last):
+  File "/Users/iownthegame/klm/backend/mysite/mysite/tools/request_tool.py", line 77, in requests_post
+    retries=retries)
+  File "/Users/iownthegame/klm/backend/py3env/lib/python3.7/site-packages/requests/sessions.py", line 581, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+TypeError: request() got an unexpected keyword argument 'retries'
+[14/Dec/2019 20:35:53] ERROR [mysite.tools.request_tool:101] http post request error
+Traceback (most recent call last):
+  File "/Users/iownthegame/klm/backend/mysite/mysite/tools/request_tool.py", line 77, in requests_post
+    retries=retries)
+  File "/Users/iownthegame/klm/backend/py3env/lib/python3.7/site-packages/requests/sessions.py", line 581, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+TypeError: request() got an unexpected keyword argument 'retries'
+[14/Dec/2019 20:36:32] ERROR [mysite.tools.request_tool:101] http post request error
+Traceback (most recent call last):
+  File "/Users/iownthegame/klm/backend/mysite/mysite/tools/request_tool.py", line 77, in requests_post
+    retries=retries)
+  File "/Users/iownthegame/klm/backend/py3env/lib/python3.7/site-packages/requests/sessions.py", line 581, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+TypeError: request() got an unexpected keyword argument 'retries'
+[14/Dec/2019 22:15:01] ERROR [mysite.tools.common_tool:56] thread exception None
+[14/Dec/2019 22:15:29] ERROR [mysite.tools.common_tool:56] thread exception None
+[14/Dec/2019 22:17:10] ERROR [mysite.tools.common_tool:56] thread exception None
+[18/Dec/2019 20:45:46] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 20:45:46] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:23:09] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:23:09] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:23:09] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:23:12] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:29:34] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:29:34] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:11] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:18] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:19] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:19] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:21] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:21] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:22] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:24] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:24] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:24] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:25] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:25] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:25] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:26] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:26] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:27] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:27] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:30:28] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:44] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:44] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:44] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:44] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:45] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:45] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:45] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:45] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:46] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:46] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:47] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:31:47] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:38] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:38] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:38] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:40] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:41] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:42] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:42] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:43] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:43] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:45] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:46] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:32:47] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:37:06] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:37:06] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:37:06] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:37:06] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:37:06] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:37:06] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:37:07] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:37:07] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:37:07] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:37:07] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:37:07] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:37:07] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:42:41] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:42:42] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:44:09] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:44:09] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:44:23] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:44:23] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:44:56] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:44:56] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:45:06] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:45:06] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:45:06] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:45:06] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:45:08] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:45:08] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:45:15] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:45:15] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 21:46:52] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 21:46:52] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:22] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:22] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:23] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:23] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:23] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:23] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:26] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:26] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:26] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:26] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:36] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:36] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:36] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:36] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:39] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:39] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:39] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:39] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[18/Dec/2019 22:14:40] ERROR [mysite.tools.common_tool:51] thread exception None
+[18/Dec/2019 22:14:40] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:44:57] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:44:57] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:00] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:00] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:01] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:01] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:01] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:01] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:01] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:01] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:05] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:05] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:05] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:05] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:05] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:05] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:05] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:05] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:06] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:06] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:06] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:06] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:06] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:06] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:08] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:08] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:09] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:09] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:45:11] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:45:11] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:47:39] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:47:39] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:47:39] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:47:39] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:48:04] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:48:04] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:48:04] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:48:04] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:48:04] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:48:04] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:48:11] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:48:11] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:48:12] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:48:12] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:48:12] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:48:12] ERROR [mysite.middleware:63] StatsMiddleware process response error
+[19/Dec/2019 15:48:43] ERROR [mysite.tools.common_tool:51] thread exception None
+[19/Dec/2019 15:48:43] ERROR [mysite.middleware:63] StatsMiddleware process response error
